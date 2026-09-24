@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Шляпа, 1 кг",
+      "price": 1050,
+      "image": "https://i.pinimg.com/originals/3f/9b/b8/3f9bb815df07dd3479700afbf980b76d.jpg"
+    },
+    {
+      "id": "2",
+      "name": "бурмалда, 1 л",
+      "price": 1500,
+      "image": "https://i.pinimg.com/736x/b8/4c/a9/b84ca9216f0c765830b0d0724a0571b6.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Джяй, 1 л",
+      "price": 600,
+      "image": "https://i.pinimg.com/originals/39/98/20/39982064bacd15294c10e39341046464.jpg?nii=t"
+    },
+    {
+      "id": "4",
+      "name": "Путин, 1 кг",
+      "price": 700,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/V_Putin_2026.png/960px-V_Putin_2026.png"
+    }
+  ]
+}
